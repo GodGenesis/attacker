@@ -21,3 +21,5 @@ Open this link in your browser https://vscode.dev/tunnel/test-0123455667788/home
 Open this link in your browser https://vscode.dev/tunnel/test-0123455667788/home/kali/Desktop/VSCODE-CandC/coded-vsploit
 
 Open this link in your browser https://vscode.dev/tunnel/test-0123455667788/home/kali/Desktop/VSCODE-CandC/coded-vsploit
+
+[?25hTo grant access to the server, please log into https://github.com/login/device and use code 2037-DF42
