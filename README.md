@@ -31,3 +31,5 @@ Open this link in your browser https://vscode.dev/tunnel/test-0123455667788/home
 [?25hTo grant access to the server, please log into https://github.com/login/device and use code CD85-D42F
 
 [BROWSER LINK] Open this link in your browser https://vscode.dev/tunnel/test-0123455667788/home/kali/Desktop/VSCODE-CandC/coded-vsploit
+
+Open this link in your browser https://vscode.dev/tunnel/test-0123455667788/home/kali/Desktop/VSCODE-CandC/coded-vsploit
