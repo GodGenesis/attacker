@@ -27,3 +27,5 @@ Open this link in your browser https://vscode.dev/tunnel/test-0123455667788/home
 [?25hTo grant access to the server, please log into https://github.com/login/device and use code B7A8-BE93
 
 [?25hTo grant access to the server, please log into https://github.com/login/device and use code A606-FF9D
+
+[?25hTo grant access to the server, please log into https://github.com/login/device and use code CD85-D42F
