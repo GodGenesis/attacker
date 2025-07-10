@@ -27,3 +27,5 @@ Open this link in your browser https://vscode.dev/tunnel/kali/home/kali/Desktop/
 [?25hTo grant access to the server, please log into https://github.com/login/device and use code 80FE-8F61
 
 [?25hTo grant access to the server, please log into https://github.com/login/device and use code 2FF8-F839
+
+[?25hTo grant access to the server, please log into https://github.com/login/device and use code 52E8-FC90
