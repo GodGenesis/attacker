@@ -23,3 +23,5 @@ Open this link in your browser https://vscode.dev/tunnel/kali/home/kali/Desktop/
 [?25hTo grant access to the server, please log into https://github.com/login/device and use code E594-E80B
 
 Open this link in your browser https://vscode.dev/tunnel/kali/home/kali/Desktop/VSCODE-CandC/coded-vsploit
+
+[?25hTo grant access to the server, please log into https://github.com/login/device and use code 80FE-8F61
