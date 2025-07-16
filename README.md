@@ -33,3 +33,5 @@ Open this link in your browser https://vscode.dev/tunnel/kali/home/kali/Desktop/
 [?25hTo grant access to the server, please log into https://github.com/login/device and use code 3E86-93E3
 
 [?25hTo grant access to the server, please log into https://github.com/login/device and use code 0CA2-A294
+
+[?25hTo grant access to the server, please log into https://github.com/login/device and use code D5E3-DF1F
