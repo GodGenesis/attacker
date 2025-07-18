@@ -39,3 +39,5 @@ Open this link in your browser https://vscode.dev/tunnel/kali/home/kali/Desktop/
 ? What would you like to call this machine? (kali) › [2m[2025-07-18 01:47:46][0m [35minfo[0m Names can only contain letters, numbers, and '-'. Spaces, commas, and all other special characters are not allowed. Please try a different name.
 
 ? What would you like to call this machine? (kali) › [2m[2025-07-18 01:47:46][0m [35minfo[0m Names can only contain letters, numbers, and '-'. Spaces, commas, and all other special characters are not allowed. Please try a different name.
+
+? What would you like to call this machine? (kali) › [2m[2025-07-18 01:47:46][0m [35minfo[0m Names can only contain letters, numbers, and '-'. Spaces, commas, and all other special characters are not allowed. Please try a different name.
