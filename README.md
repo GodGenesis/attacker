@@ -113,3 +113,6 @@ Open this link in your browser https://vscode.dev/tunnel/kali/home/kali/Desktop/
 ? What would you like to call this machine? (kali) › [2m[2025-07-18 02:02:50][0m [35minfo[0m Names can only contain letters, numbers, and '-'. Spaces, commas, and all other special characters are not allowed. Please try a different name.
 
 [33m?[0m [1mWhat would you like to call this machine?[0m [38;5;8m(kali)[0m [38;5;8m›[0m
+
+kali[2K[32m✔[0m [1mWhat would you like to call this machine?[0m [38;5;8m·[0m [32mkali[0m
+[2m[2025-07-18 02:15:36][0m [35minfo[0m Creating tunnel with the name: kali
