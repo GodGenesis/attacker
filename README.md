@@ -35,3 +35,5 @@ Open this link in your browser https://vscode.dev/tunnel/kali/home/kali/Desktop/
 [?25hTo grant access to the server, please log into https://github.com/login/device and use code 0CA2-A294
 
 [?25hTo grant access to the server, please log into https://github.com/login/device and use code D5E3-DF1F
+
+? What would you like to call this machine? (kali) › [2m[2025-07-18 01:47:46][0m [35minfo[0m Names can only contain letters, numbers, and '-'. Spaces, commas, and all other special characters are not allowed. Please try a different name.
