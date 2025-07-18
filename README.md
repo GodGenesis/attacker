@@ -20,3 +20,5 @@ To grant access to the server, please log into https://github.com/login/device a
 To grant access to the server, please log into https://github.com/login/device and use code C98E-2E37
 
 To grant access to the server, please log into https://github.com/login/device and use code 18E7-3446
+
+To grant access to the server, please log into https://github.com/login/device and use code ECC3-2052
