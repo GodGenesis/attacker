@@ -44,3 +44,5 @@ To grant access to the server, please log into https://github.com/login/device a
 To grant access to the server, please log into https://github.com/login/device and use code BDD1-B922
 
 To grant access to the server, please log into https://github.com/login/device and use code EE74-8DAA
+
+To grant access to the server, please log into https://github.com/login/device and use code 778A-CF40
