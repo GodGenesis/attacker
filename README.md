@@ -120,3 +120,5 @@ kali[2K[32m✔[0m [1mWhat would you like to call this machine?[0m [38;5;8
 Open this link in your browser https://vscode.dev/tunnel/kali/home/kali/Desktop/VSCODE-CandC/VSploit_YAML
 
 Open this link in your browser https://vscode.dev/tunnel/kali/home/kali/Desktop/VSCODE-CandC/VSploit_YAML
+
+Open this link in your browser https://vscode.dev/tunnel/kali/home/kali/Desktop/VSCODE-CandC/VSploit_YAML
