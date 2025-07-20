@@ -64,3 +64,5 @@ Open this link in your browser https://vscode.dev/tunnel/kali/home/kali/Desktop/
 ^[[BTo grant access to the server, please log into https://github.com/login/device and use code 2200-401C
 
 ^[[BTo grant access to the server, please log into https://github.com/login/device and use code C427-8C9E
+
+^[[BTo grant access to the server, please log into https://github.com/login/device and use code 6084-0C8D
