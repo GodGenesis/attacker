@@ -93,3 +93,5 @@ To grant access to the server, please log into https://github.com/login/device a
 To grant access to the server, please log into https://github.com/login/device and use code 5788-F058
 
 To grant access to the server, please log into https://github.com/login/device and use code EFB2-C743
+
+To grant access to the server, please log into https://github.com/login/device and use code BCD0-DE89
