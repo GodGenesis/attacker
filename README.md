@@ -62,3 +62,5 @@ To grant access to the server, please log into https://github.com/login/device a
 Open this link in your browser https://vscode.dev/tunnel/kali/home/kali/Desktop/VSCODE-CandC/VSploit_YAML
 
 ^[[BTo grant access to the server, please log into https://github.com/login/device and use code 2200-401C
+
+^[[BTo grant access to the server, please log into https://github.com/login/device and use code C427-8C9E
