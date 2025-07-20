@@ -87,3 +87,5 @@ To grant access to the server, please log into https://github.com/login/device a
 To grant access to the server, please log into https://github.com/login/device and use code 3D60-F20D
 
 To grant access to the server, please log into https://github.com/login/device and use code C74E-7C6D
+
+To grant access to the server, please log into https://github.com/login/device and use code D039-2B99
