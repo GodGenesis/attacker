@@ -5,3 +5,5 @@
 To grant access to the server, please log into https://github.com/login/device and use code AEFA-A7FC
 
 Open this link in your browser https://vscode.dev/tunnel/0xsamwins/C:/Users/YouGotThisSAM/Desktop/Suman/vsxploit/dist
+
+Open this link in your browser https://vscode.dev/tunnel/0xsamwins/C:/Users/YouGotThisSAM/Desktop/Suman/vsxploit/dist
