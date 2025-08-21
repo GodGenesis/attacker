@@ -17,3 +17,5 @@ To grant access to the server, please log into https://github.com/login/device a
 ✔ What would you like to call this machine? · dev-server
 [2025-08-21 09:47:04] info Creating tunnel with the name: dev-server
 kali
+
+Open this link in your browser https://vscode.dev/tunnel/dev-server/home/kali/TEST-VSXPLOIT/vsxploit/dist
