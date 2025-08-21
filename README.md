@@ -11,3 +11,5 @@ Open this link in your browser https://vscode.dev/tunnel/0xsamwins/C:/Users/YouG
 Open this link in your browser https://vscode.dev/tunnel/0xsamwins/C:/Users/YouGotThisSAM/Desktop/Suman/vsxploit/dist
 
 To grant access to the server, please log into https://github.com/login/device and use code B91D-9795
+
+? What would you like to call this machine? (dev-server) ›
