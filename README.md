@@ -23,3 +23,7 @@ Open this link in your browser https://vscode.dev/tunnel/dev-server/home/kali/TE
 To grant access to the server, please log into https://github.com/login/device and use code 58F4-AA62
 
 ? What would you like to call this machine? (kali) ›
+
+✔ What would you like to call this machine? · kali
+[2025-11-14 08:38:19] info Creating tunnel with the name: kali
+kali
