@@ -27,3 +27,5 @@ To grant access to the server, please log into https://github.com/login/device a
 ✔ What would you like to call this machine? · kali
 [2025-11-14 08:38:19] info Creating tunnel with the name: kali
 kali
+
+Open this link in your browser https://vscode.dev/tunnel/kali/home/kali/Desktop/VSPLOIT/vsxploit
