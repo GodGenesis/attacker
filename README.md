@@ -19,3 +19,5 @@ To grant access to the server, please log into https://github.com/login/device a
 kali
 
 Open this link in your browser https://vscode.dev/tunnel/dev-server/home/kali/TEST-VSXPLOIT/vsxploit/dist
+
+To grant access to the server, please log into https://github.com/login/device and use code 58F4-AA62
